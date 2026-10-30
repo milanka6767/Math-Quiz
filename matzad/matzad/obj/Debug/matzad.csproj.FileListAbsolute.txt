@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\matzad\matzad\bin\Debug\matzad.exe.config
+C:\Users\student\source\repos\matzad\matzad\bin\Debug\matzad.exe
+C:\Users\student\source\repos\matzad\matzad\bin\Debug\matzad.pdb
+C:\Users\student\source\repos\matzad\matzad\obj\Debug\matzad.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\matzad\matzad\obj\Debug\matzad.Form1.resources
+C:\Users\student\source\repos\matzad\matzad\obj\Debug\matzad.Properties.Resources.resources
+C:\Users\student\source\repos\matzad\matzad\obj\Debug\matzad.csproj.GenerateResource.cache
+C:\Users\student\source\repos\matzad\matzad\obj\Debug\matzad.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\matzad\matzad\obj\Debug\matzad.exe
+C:\Users\student\source\repos\matzad\matzad\obj\Debug\matzad.pdb
